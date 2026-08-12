@@ -1,3 +1,9 @@
+// MFA Bypass ReWritten by https://yourpov.dev/
+// more readable and maintainable. kek
+//
+// The original was spaghetti code (https://www.unknowncheats.me/forum/valorant/766636-mfa-bypass.html)
+// and full of shitty practices :skull:
+
 #pragma once
 
 #include <windows.h>
