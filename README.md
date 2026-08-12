@@ -4,4 +4,4 @@ Valorant MFA Bypass since NFA rank-ready accounts can't do MFA, making ranked im
 
 ## Showcase
 
-<video src="https://www.yourpov.dev/files/val-mfa.mp4" controls></video>
+[Watch the showcase](https://www.yourpov.dev/files/val-mfa.mp4)
